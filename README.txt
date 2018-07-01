@@ -5,6 +5,7 @@ This app utilizes:
 	Google Firebase
 	Apple HealthKit
 	
+	References: Udemy, Udacity, Vasil Nunev Youtube 
 
 
 I am aiming to create a health care application that focuses on maintaining the 
