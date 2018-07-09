@@ -1,0 +1,6 @@
+framework module Pods_Continue {
+  umbrella header "Pods-Continue-umbrella.h"
+
+  export *
+  module * { export * }
+}
